@@ -74,3 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Call the function when the page loads
     fetchAPOD();
 });
+
+
+src/apod.js
+
